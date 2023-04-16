@@ -1,7 +1,17 @@
 body {
-  background-color: #ff7555;
+  background-color: white;
 }
 
 h1 {
+  text-align: center;
+}
+
+fieldset {
+  border: dotted;
+  background-color: lavenderblush;
+  flex-flow: wrap;
+  display: flex;
+  justify-content: center;
+  align-content: center;
   text-align: center;
 }
