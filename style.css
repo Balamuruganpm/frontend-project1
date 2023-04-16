@@ -5,6 +5,32 @@ body {
 h1 {
   text-align: center;
 }
+<<<<<<< HEAD
+
+.achievements {
+  display: inline;
+  
+}
+
+.work-heading {
+  text-align: center;
+  font-size: 30px;
+  color: slategray;
+}
+
+.work-text {
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+} 
+
+
+.aboutme {
+  color: darkolivegreen;
+  text-align: center;
+}
+
+=======
 
 fieldset {
   border: dotted;
@@ -15,3 +41,4 @@ fieldset {
   align-content: center;
   text-align: center;
 }
+>>>>>>> 32132e70998594373c2f7bbba9552dfd34c6e2a3
