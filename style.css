@@ -1,31 +1,27 @@
 body {
-  background-color: white;
+ background: linear-gradient(90deg, black 1%, blue 39%, lightblue 100%);
 }
 
-h1 {
+h1{
+  color: white;
   text-align: center;
-}
-
-
-.achievements {
-  display: inline;
   
+  letter-spacing: .3;
 }
 
-.work-heading {
-  text-align: center;
-  font-size: 30px;
-  color: slategray;
-}
-
-.work-text {
+form {
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  text-align: center;
   align-content: center;
-} 
+  width: 425px;
+  height: 275px;
+  border: none;
+  border-color: white;
+  background-image: linear-gradient(red ,yellow);
+}
 
-
-.aboutme {
-  color: darkolivegreen;
-  text-align: center;
+label {
+  color: white;
+  font-size: 20px;
 }
